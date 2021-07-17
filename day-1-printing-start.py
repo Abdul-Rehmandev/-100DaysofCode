@@ -1,0 +1,1 @@
+print("Hello world!\n"*6 + input("What is wrong with you?")*6)
